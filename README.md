@@ -3,7 +3,7 @@ This project is linked to [National Household Model Core Components] (https://gi
 
 
 # Installation
-Requires installation of Java 1.7 JRE in order to run executable JAR file. Uses Maven to build exectutable. Your local maven repository should include both the nhm-language-documentation and nhm-stock-documentation jars at the correct version. These can be added to your local repository by cloning [National Household Model Core Components] (https://github.com/decc/national-household-model-core-components) and running '/gradlew install'.
+Requires installation of Java 1.7 JRE in order to run executable JAR file. Uses Maven(3) to build exectutable. Your local maven repository should include both the nhm-language-documentation and nhm-stock-documentation jars at the correct version. These can be added to your local repository by cloning [National Household Model Core Components] (https://github.com/decc/national-household-model-core-components) and running '/gradlew install'.
 
 # License
 [Open Government License] (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) 
